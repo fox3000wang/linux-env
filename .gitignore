@@ -1,0 +1,8 @@
+.actionScriptProperties
+.flexLibProperties
+.project
+/bin*
+*.iml
+/target*
+.DS_Store
+.settings/
