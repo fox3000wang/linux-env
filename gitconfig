@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[alias]
+	ci = commit
+	st = status
+	br = branch
+[user]
+	name = fox.wang
+	email = fox.wang@saybot.com

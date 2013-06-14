@@ -1,0 +1,93 @@
+127.0.0.1	localhost kabagarbo
+210.14.66.208 monfils
+192.168.0.17 jianggan
+
+#203.208.39.22 webcache.googleusercontent.com
+#203.208.39.22 mail.google.com
+#203.208.39.22  www.google.com.hk
+#203.208.39.22  www.google.com
+#66.249.89.91 mail.google.com
+#74.125.79.109 pop.gmail.com
+#74.125.79.109 smtp.gmail.com
+#66.249.89.91 encrypted.google.com
+
+
+#192.168.0.43 hantuchova.shuobaotang.com
+#192.168.0.43 guojing.shuobaotang.com
+192.168.0.42 henin.shuobaotang.com
+#192.168.0.225 tiantian.shuobaotang.com
+#192.168.0.35 chang.shuobaotang.com
+#61.129.86.54 gems.shuobaotang.com
+#61.129.86.54 rubygems.org
+72.4.120.124 gems.shuobaotang.com
+72.4.120.124 rubygems.org
+
+# dinosaur
+192.168.0.13    dinosaur.beta.shuobaotang.com
+192.168.0.47    login.dev.shuobaotang.com vw.dev.shuobaotang.com
+
+# development servers (environment = development)
+#192.168.0.17 teacher.dev.shuobaotang.com 
+#192.168.0.17 dev.shuobaotang.com
+#192.168.0.17 asset1.dev.shuobaotang.com asset2.dev.shuobaotang.com asset3.dev.shuobaotang.com asset4.dev.shuobaotang.com asset5.dev.shuobaotang.com
+#192.168.0.17 vw.dev.shuobaotang.com 
+#192.168.0.17 vw1.dev.shuobaotang.com 
+#192.168.0.17 chat.dev.shuobaotang.com
+#192.168.0.17 login.dev.shuobaotang.com login1.dev.shuobaotang.com
+#192.168.0.17 account.dev.shuobaotang.com
+
+192.168.0.17 teacher.dev.shuobaotang.com 
+192.168.0.17 dev.shuobaotang.com
+192.168.0.17 asset1.dev.shuobaotang.com asset2.dev.shuobaotang.com asset3.dev.shuobaotang.com asset4.dev.shuobaotang.com asset5.dev.shuobaotang.com
+192.168.0.14 vw.dev.shuobaotang.com 
+192.168.0.14 vw1.dev.shuobaotang.com 
+192.168.0.14 chat.dev.shuobaotang.com
+192.168.0.14 login.dev.shuobaotang.com login1.dev.shuobaotang.com
+192.168.0.17 account.dev.shuobaotang.com
+
+
+
+# development2 servers (environment = development2)
+192.168.0.17 teacher.dev2.shuobaotang.com 
+192.168.0.17 dev2.shuobaotang.com
+192.168.0.17 asset1.dev2.shuobaotang.com asset2.dev2.shuobaotang.com asset3.dev2.shuobaotang.com asset4.dev2.shuobaotang.com asset5.dev2.shuobaotang.com
+192.168.0.19 vw.dev2.shuobaotang.com 
+192.168.0.19 vw1.beta.shuobaotang.com 
+192.168.0.19 chat.dev2.shuobaotang.com
+192.168.0.19 login.dev2.shuobaotang.com login1.dev2.shuobaotang.com
+
+# beta servers (environment = beta)
+192.168.0.13 teacher.beta.shuobaotang.com 
+192.168.0.13 beta.shuobaotang.com 
+192.168.0.13 asset1.beta.shuobaotang.com asset2.beta.shuobaotang.com asset3.beta.shuobaotang.com asset4.beta.shuobaotang.com asset5.beta.shuobaotang.com
+192.168.0.14 vw.beta.shuobaotang.com 
+192.168.0.14 vw1.beta.shuobaotang.com 
+192.168.0.14 chat.beta.shuobaotang.com
+192.168.0.14 login.beta.shuobaotang.com login1.beta.shuobaotang.com
+192.168.0.13 account.beta.shuobaotang.com
+192.168.0.13 home.shuobaotang.com slides.beta.shuobaotang.com
+
+# release candidate servers (environment = rc)
+#192.168.0.43 teacher.rc.shuobaotang.com 
+#192.168.0.43 rc.shuobaotang.com
+#192.168.0.19 vw.rc.shuobaotang.com 
+
+# release servers(environment = production)
+#192.168.0.17 teacher.saybot.com 
+#192.168.0.17 www.alo7.com account.alo7.com home.alo7.com
+#192.168.0.17 asset1.alo7.com asset2.alo7.com asset3.alo7.com asset4.alo7.com asset5.alo7.com
+#192.168.0.18 vw.alo7.com  
+#192.168.0.18 vw1.alo7.com chat.alo7.com 
+#192.168.0.18 login.alo7.com login1.alo7.com
+
+#210.14.70.43 www.alo7.com 
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhost
+
